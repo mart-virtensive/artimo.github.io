@@ -1,5 +1,18 @@
 # artimo.github.io
-Artimo privaatsusteave
+<style>
+  body{font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;color:#303a26;background:#f7f7f1;margin:0;padding:20px 16px 40px}
+  main{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+  section{display:flex;flex-direction:column;gap:10px}
+  h1{font-size:1.4rem;margin:0;line-height:1.2} h2{font-size:1.05rem;margin:8px 0 0} p,ul{margin:0} ul{padding-left:20px}
+  table{border-collapse:collapse;font-size:.92rem} th,td{text-align:left;vertical-align:top;padding:6px 8px;border-top:1px solid #d9dccf}
+  .m{color:#656c5d;font-size:.9rem}
+  @media (prefers-color-scheme: dark){body{color:#eef1e6;background:#141811}.m{color:#a3ab98}th,td{border-color:#39402f}}
+</style>
+</head>
+<body>
+<main>
+<section lang="et">
+  <h1>Artimo privaatsusteave</h1>
 Kehtib alates 17. november 2026. Rakenduse väljaandja ja vastutav töötleja on OÜ Virtensive (reg. kood 17468380) .
 Lühidalt
 Sinu päevik on ainult sinu telefonis. Artimol ei ole kasutajakontot, reklaami, analüütikat ega jälgimist. Telefonist lahkuvad andmed ainult siis, kui kasutad toidufoto analüüsi või ostad midagi. Toidufoto saadetakse analüüsiks ainult sinu nõusolekul ja seda ei salvestata.
