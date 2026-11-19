@@ -15,7 +15,6 @@
 <section lang="et">
   <h1>Artimo privaatsusteave</h1>
   <p class="m">Kehtib alates 17. november 2026. Rakenduse väljaandja ja vastutav töötleja on OÜ Virtensive (reg. kood 17468380) .</p>
-
   <h2>Lühidalt</h2>
   <p>Sinu päevik on ainult sinu telefonis. Artimol ei ole kasutajakontot, reklaami, analüütikat ega jälgimist. Telefonist lahkuvad andmed ainult siis, kui kasutad toidufoto analüüsi või ostad midagi. Toidufoto saadetakse analüüsiks ainult sinu nõusolekul ja seda ei salvestata.</p>
 
